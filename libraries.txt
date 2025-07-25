@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ESP32Servo
+DHT sensor library
+Servo
+HCSR04 ultrasonic sensor
+LiquidCrystal I2C
